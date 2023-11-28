@@ -47,5 +47,6 @@ const {
   Consumer,
 } = context;
 
-export { Provider, Consumer, ReactSdkContext };
+export { Provider, Consumer };
+export type { ReactSdkContext };
 export default context;
